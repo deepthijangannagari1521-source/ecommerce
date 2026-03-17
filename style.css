@@ -1,0 +1,49 @@
+body{
+font-family: Arial;
+margin:0;
+}
+
+header{
+background:#000;
+color:white;
+padding:15px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+.hero{
+text-align:center;
+padding:100px;
+background:#eee;
+}
+
+.btn{
+background:orange;
+padding:10px 20px;
+color:white;
+text-decoration:none;
+}
+
+.products{
+display:flex;
+gap:20px;
+padding:20px;
+}
+
+.product{
+border:1px solid #ddd;
+padding:10px;
+text-align:center;
+}
+
+button{
+background:orange;
+border:none;
+padding:10px;
+color:white;
+cursor:pointer;
+}
